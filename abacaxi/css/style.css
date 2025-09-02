@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    width: 75px;
+}
+
+nav {
+    display: flex;
+    gap: 50px;
+}
+
+nav a {
+    color: white;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    just
+}
+
+.busca {
+    background-color: gray;
+    color: rgb(187, 187, 187);
+    display: flex;
+    padding: 8px 15px;
+    border-radius: 15px;
+    align-items: center;
+    gap: 5px;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+}
+
+.icon-perfil {
+    width: 40px;
+    height: 40px;
+    color: gray;
+
+}
+
+section {
+    background-color: black;
+    height: 1100px;
+
+}
+
+.logo-container img {
+    border-radius: 15px;
+    height: 400px;
+    width: 800px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.container-info {
+    color: rgb(255, 255, 255);
+}
+
+.carrosel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.card-body .carrosel {
+    display: grid;
+    /* Usa grid para organizar os cards */
+    grid-auto-flow: column;
+    /* Organiza os itens em colunas */
+    grid-auto-columns: calc((100% / 3) - 12px);
+    /* Calcula o tamanho das colunas */
+    gap: 16px;
+    /* Espaço entre os itens */
+    overflow: hidden;
+    /* Esconde qualquer conteúdo que ultrapasse o container */
+    width: 1100px;
+    /* Largura do carrossel */
+    height: 600px;
+    /* Altura do carrossel */
+}
+
+.carrosel :where(.card, .img) {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.card,
+.carrosel {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+    /* Espaço entre os cards */
+}
+
+.card, .img, a>img {
+    width: 250px;
+    /* Largura das imagens */
+    height: initial;
+    /* Mantém a proporção original */
+    object-fit: cover;
+    /* As imagens cobrem o espaço da caixa sem deformar */
+    border-radius: 10px;
+    /* Arredonda os cantos das imagens */
+}
