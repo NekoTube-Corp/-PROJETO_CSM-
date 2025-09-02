@@ -28,6 +28,9 @@ Sobre os conceitos que guiarão a elaboração do projeto, temos:
 
 1. Programação Web - HTML, CSS, JavaScript
 
-2. Programação Mobile - Flutter
+2. Banco de Dados - MySQL
 
-3. Técnicas de documentação
+3. Programação Mobile - Flutter
+
+4. Técnicas de documentação
+
