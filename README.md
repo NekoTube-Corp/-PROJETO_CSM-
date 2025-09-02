@@ -10,6 +10,8 @@ Este é um projeto desenvolvido para a disciplina de **Análise e Projeto de Sis
 
 44012926 - Henrique Domingues Ferro
 
+37347764 - Iago Ferreira do Prado Negreiros
+
 37373382 - Juliana Dantas de Oliveira
 
 39917860 - Pedro Ferreira Santos
@@ -33,6 +35,7 @@ Sobre os conceitos que guiarão a elaboração do projeto, temos:
 3. Programação Mobile - Flutter
 
 4. Técnicas de documentação
+
 
 
 
