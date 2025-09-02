@@ -4,7 +4,7 @@ Este é um projeto desenvolvido para a disciplina de **Análise e Projeto de Sis
 
 # INTEGRANTES
 
-40721086 - Davi Sesso
+40721086 - Davi Garcia Sesso
 
 38228017 - Giovanna Clara Paes
 
@@ -12,7 +12,7 @@ Este é um projeto desenvolvido para a disciplina de **Análise e Projeto de Sis
 
 37373382 - Juliana Dantas de Oliveira
 
-39917860 - Pedro Ferreira
+39917860 - Pedro Ferreira Santos
 
 # OBJETIVO
 
@@ -33,5 +33,6 @@ Sobre os conceitos que guiarão a elaboração do projeto, temos:
 3. Programação Mobile - Flutter
 
 4. Técnicas de documentação
+
 
 
