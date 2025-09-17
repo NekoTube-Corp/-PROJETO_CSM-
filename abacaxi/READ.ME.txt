@@ -1,0 +1,6 @@
+Durante esta parte de desenvolvimento projeto ocorreram diversos erros e o proprio projesto
+se ve carente de mais organização mesmo que as "gambiarras" venham funcionando houveram diversos
+problemas no desenvolvimento da pagina home e do banco de dados fora não ter sido capaz de sincroniza-los
+devidamente, esperamos ser capazes de corrigir tais erros daqui para frente.
+
+ASS: TEAM Abacaxi.
